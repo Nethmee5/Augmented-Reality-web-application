@@ -1,0 +1,22 @@
+
+.right-side-bar{
+    background-color: black;
+    width:600px;
+    height: 1660px;
+    display: inline;
+    justify-content: center;
+    position:absolute;
+    right: 0;
+    top: 120px;
+    
+}
+.sections-right-side-bar{
+
+}
+li{
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+    
+    margin-top: 10px;
+}

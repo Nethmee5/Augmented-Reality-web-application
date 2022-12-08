@@ -1,0 +1,80 @@
+.sug-contain{
+
+    width: 1350px;
+    margin-bottom: 100px;
+    font-family: 'Inter', sans-serif;
+    background-color: green;
+    width: 100%;
+    height: 700px;
+    color: black;
+ 
+    
+}
+.title-sug{
+   font-weight: bold;
+   font-size: large;
+  margin-left: 450px;
+   padding-bottom: 50px;
+   padding-top: 50px;
+   font-family: 'Inter', sans-serif;
+   font-size: 40px;
+
+
+
+}
+#btn-guide-pro-sug{
+    color: red;
+    background-color: black;
+    margin-top: 10px; 
+    margin-left: 120px;
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 50px;
+    margin-left: 260px;
+    padding: 5px;
+}
+.btn-submit-suggest{
+    width: 80%;
+    height: 38px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-radius: 1rem;
+    cursor: pointer;
+    padding: 0;
+    margin-top: 20px;
+    margin-left: 280px;
+}
+.btn-submit-suggest:hover{
+    background-color: green;
+}
+#btn-guide-pro-sug:hover{
+    color: blue;
+}
+.form-design{
+    margin-left: 300px;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+   
+}
+#hty{
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+}
+#post{
+    font-size: 15px;
+    width: 465px;
+    font-family: 'Inter', sans-serif;
+}
+#fullName{
+    width: 465px;
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+}
+#proName{
+    width: 465px;
+    font-size: 15px;
+}
+#date{
+    width: 465px;
+    font-size: 15px;
+}

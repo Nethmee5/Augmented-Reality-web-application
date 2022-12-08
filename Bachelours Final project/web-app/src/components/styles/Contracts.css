@@ -1,0 +1,75 @@
+
+.Apply-container{
+
+ 
+    margin-top: 10px;
+    margin-bottom: 50px;
+    background-color: green;
+    width: 100%;
+    height: 600px;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+   padding-left: 300px;
+   color: black;
+}
+.title-contract{
+    font-weight: bold;
+    font-size: large;
+   margin-left: 200px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+
+
+}
+
+#btn-guide-pro-sug{
+    color: red;
+    background-color: black;
+    margin-top: 10px; 
+    margin-left: 120px;
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 50px;
+    margin-left: 300px;
+    padding: 5px;
+}
+.btn-guide-pro-sug{
+
+
+}
+.btn-submit-suggest{
+    width: 80%;
+    height: 38px;
+    background-color: black;
+    color: black;
+    font-weight: bold;
+    border-radius: 1rem;
+    cursor: pointer;
+    padding: 0;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-bottom: 30px;
+}
+
+#btn-guide-pro-sug:hover{
+    color: blue;
+} 
+
+#ConName{
+    width: 465px;
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+
+}
+#ConDate{
+
+    font-size: 15px;
+    width: 465px;
+    font-family: 'Inter', sans-serif;
+}
+
+
+
+
+

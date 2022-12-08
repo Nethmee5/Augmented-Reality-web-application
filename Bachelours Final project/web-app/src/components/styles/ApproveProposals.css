@@ -1,0 +1,75 @@
+.sec-up{
+    margin-left: 0px;
+    
+    margin-bottom: 200px;
+    font-family: 'Inter', sans-serif;
+    color: black;
+  
+}
+
+.left-sec-bottom{
+    margin-left: 300px;
+    padding-left: 400px;
+    
+    
+    margin-bottom: 100px;
+}
+
+
+.left-sec-down{
+    margin-top: 50px;
+    width: 1000px;
+    height: 810px;
+    padding-top: 50px;
+   padding-left: 50px;   
+    background-color: green;
+}
+.left-sec-up{
+   
+    margin-top: 50px;
+    width: 1000px;
+    height: 810px;
+    padding-top: 50px;
+   padding-left: 50px;   
+    background-color: green;
+}
+
+#btn-submit-proposal{
+    width: 80%;
+    height: 38px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-radius: 1rem;
+    cursor: pointer;
+    padding: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left:100px;
+   
+  
+}
+
+
+#btn-submit-estimate{
+    width: 80%;
+    height: 38px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-radius: 1rem;
+    cursor: pointer;
+    padding: 0;
+    margin-left:100px;
+   
+    margin-top: 10px;
+    margin-bottom: 10px;
+  
+}
+
+#btn-submit-reg:hover{
+    background: green;
+ 
+
+  }
+  

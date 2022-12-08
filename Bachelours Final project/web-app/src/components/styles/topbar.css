@@ -1,0 +1,86 @@
+.sum1{
+    display:inline-block;
+    margin-top: 0%;
+    width: 100%;
+ 
+    top: 0;
+   
+    
+  
+    background-color: black;
+  
+ }
+ .ul{
+     margin-left: 0px;
+ }
+ .topbar{
+  
+     color: white;
+     font-size: 12px;
+     height: 40px;
+   
+     
+     
+ }
+ 
+ #Logo-img{
+ 
+    margin-top: 0px;
+    margin-left: 0px;
+    
+ 
+  
+    
+ }
+ 
+  img{
+ 
+     width: 40px;
+     display: flex;
+     margin-left: 0px;
+    
+     
+   
+   
+     
+  }
+  
+      
+ 
+     
+    
+     
+ 
+ 
+ #name{
+     margin-top: 0px;
+     font-family: 'Inter', sans-serif;
+    
+     
+ 
+ }
+ #email{
+     color: white;
+     padding-left: 50px;
+ 
+    
+     margin-top: 0px;
+     
+     
+ }
+ #email-icon-name{
+     margin-top: 0px;
+     font-family: 'Inter', sans-serif;
+ }
+ #phone
+ {
+     padding-left: 50px;
+   
+     margin-top: 0px;
+ 
+     
+ }
+ #phone-icon-name{
+     margin-top: 0px;
+     font-family: 'Inter', sans-serif;
+ }

@@ -1,0 +1,48 @@
+.head-finished{
+    background-color: green;
+    top:0;
+    color: black;
+}
+.project-1{
+    margin-top: 90px;
+    margin-bottom: 150px;
+    
+}
+
+.project-1 img{
+
+    width: 300px;
+    margin-left: 50px;
+
+}
+.project-1-name{
+
+    font-size: large;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-left: 50px;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+.project-2 img{
+
+    width: 300px;
+    margin-left: 50px;
+
+}
+.project-2-name{
+
+    font-size: large;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-left: 50px;
+    font-family: 'Inter', sans-serif;
+
+}
+p{
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: 'Inter', sans-serif;
+}

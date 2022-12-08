@@ -1,0 +1,199 @@
+
+.sum{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    height: 70px;
+    position: sticky;
+    top: 0;
+}
+  
+#Logo-img{
+
+    padding-left: 30px;
+    width: 50px;
+  
+
+}    
+
+#name{
+    margin-top: 0px;
+    font-family: 'Inter', sans-serif;
+    color: black;
+    font-size: 15px;
+    padding-left: 10px;
+
+   
+    
+
+}
+    
+  
+  
+    
+  
+    
+
+
+
+.navbar{
+    margin-left: 1rem;
+    color: black;
+    
+   
+  
+    padding-left: 50px;
+  
+    
+  
+    
+   
+
+    
+}
+
+
+
+
+
+
+.item{
+    display: flex;
+   
+    
+   
+}
+    
+.ul{
+    display: flex;
+    margin: 25px;
+    list-style-type: none;
+    text-decoration: none;
+    
+  
+
+   
+    
+  
+
+}
+li{
+    margin: 10px;
+  
+    
+  
+}
+
+a{
+    
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+  
+  
+    
+}
+a:hover,
+a:active{
+
+    color: green;
+}
+.title
+{
+    padding-top: 170px;
+    padding-left: 10px;
+    color: rgb(253, 137, 137);
+    
+
+}
+.side-drawer{
+    
+    height: 80px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.menu-bars{
+    margin-left: 2rem;
+    font-size: 2rem;
+    color: white;
+   
+}
+
+.menu-bars-icon{
+    margin-left: 2rem;
+    margin-top: 0rem;
+    font-size: 2rem;
+    color: black;
+ 
+    
+    
+    
+}
+
+
+.nav-menu{
+    background-color: black;
+    width: 250px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: -100%;
+    transition: 850ms;
+}
+.nav-menu.active{
+    left: 0;
+    transition: 350ms;
+}
+.nav-text{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 0px 0px 8px 16px;
+    list-style: none;
+    height: 60px;
+  
+
+}
+
+.nav-text a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    width: 95%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0 16px;
+    border-radius: 4px;
+}
+
+.nav-text a:hover{
+    background-color: green;
+
+}
+
+.nav-menu-items{
+    width: 100%;
+}
+.navbar-toggle{
+    background-color: black;
+    width: 90%;
+    height: 80px ;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding-left: 130px;
+}
+span{
+    margin-left: 16px;
+}
+
+

@@ -1,0 +1,69 @@
+.leftside,.rightside{
+
+  height: 100vh;
+  width: 100%;
+}
+
+.leftside{
+  background-color: white;
+  width: 10px;
+  
+}
+.rightside{
+  
+
+  margin: 0;
+  padding: 0;
+  background-position: center;  
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-image: linear-gradient( rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(../images/river.jpg) ;
+  filter: saturate(1);
+
+}
+.text{
+  position:absolute;
+  width: 350px;
+
+  color: #000000;
+  border: medium;
+  border-color: black;
+  font-size: 40px;
+  font-family: 'Inter', sans-serif;
+  height: 230px;
+  padding: 80px;
+  
+  border-width: medium; /* Was: border: medium; */
+  border-style: solid;
+  margin-top: 200px; 
+  margin-left: 150px;
+  font-weight: lighter;  
+}
+
+p{
+ 
+
+  font-family: 'Inter', sans-serif;
+  padding-left: 20px;
+  padding-right: 20px;
+   font-weight: lighter;
+}
+.description{
+  align-content: center;
+  padding-top: 200px;
+  padding-left: 10px;
+  font-size: 20px;
+  color: white;
+ 
+
+
+
+ font-family: 'Inter', sans-serif;
+
+  
+}
+.arrow{
+  background-color: black;
+  color: green;
+  padding-left: 100px;
+}

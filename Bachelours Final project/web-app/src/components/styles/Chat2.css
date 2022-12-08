@@ -1,0 +1,51 @@
+#helper-section {
+    width: 100%;
+    height:800px;
+    border: "1px solid black";
+    background-color: black;
+    padding: 10px;
+    float: left;
+    
+
+  }
+  
+  #irc-section {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #irc-message-container {
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    height: 450px;
+  }
+  
+  .irc-message {
+    white-space: break-spaces;
+    word-wrap: break-word;
+    margin-top: 2px;
+    margin-right: 10px;
+    color: white;
+  }
+  
+  #irc-send #message-row {
+    display: flex;
+    flex-direction: row;
+    
+  }
+  #irc-Entrybox {
+    height: 60px;
+  }
+  
+  .message-highlight {
+    animation: highlight 3s;
+  }
+  #AR-button{
+    background-color: blue;
+  
+   margin-left: 50px;
+   padding: 5px;
+  font-size: 10px;
+   color: white;
+    }
